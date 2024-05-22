@@ -1,0 +1,4 @@
+C:\SourceCode\UTN\.NET\WebApp18Mayo\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\UTN\.NET\WebApp18Mayo\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\SourceCode\UTN\.NET\WebApp18Mayo\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\SourceCode\UTN\.NET\WebApp18Mayo\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache

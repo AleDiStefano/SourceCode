@@ -1,0 +1,6 @@
+@WebApp18Mayo_HostAddress = http://localhost:5035
+
+GET {{WebApp18Mayo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
